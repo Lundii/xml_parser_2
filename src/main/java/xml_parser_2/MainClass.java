@@ -28,7 +28,7 @@ public class MainClass {
             List<String> categories = xmlhandler.getCategoryList();
             System.out.println("Categories: ");
             for(String category: categories ){
-                System.out.println(category);
+                System.out.println("  " + category);
             }
             System.out.println();
 
