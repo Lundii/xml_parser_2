@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<categories name="All">
+    <category name="Phones and Accessories">
+        <subcategory name="Mobile Phones">
+            <subcategory name="Smartphones">
+                <subcategory name="Android Phones">
+                    <subcategory name="Samsung">
+                        <product>
+                            <name>Galaxy A31</name>
+                            <description>128GB, 4GB RAM, 5000mAh, Dual SIM 4G LTE</description>
+                            <price>#103900</price>
+                            <rating>5.0</rating>
+                        </product>
+                        <product>
+                            <name>Galaxy Note 10</name>
+                            <description>128GB, 6GB RAM, 6.7 Inch, 4500mAh, 4G LTE smartphone - Aura Glow</description>
+                            <price>#196990</price>
+                            <rating>No rating</rating>
+                        </product>
+                        <product>
+                            <name>Galaxy A10s</name>
+                            <description>32GB, 2GB RAM, 6.2 Inch, 4000mAh, 4G LTE Smartphone</description>
+                            <price>#50990</price>
+                            <rating>4.4</rating>
+                        </product>
+                        <product>
+                            <name>Galaxy S7 Edge Smartphone</name>
+                            <description>32GB, 4GB RAM, 5.5 Inch, Single SIM - Black</description>
+                            <price>#64900</price>
+                            <rating>5.0</rating>
+                        </product>
+                        <product>
+                            <name>Galaxy S8 Plus</name>
+                            <description>64GB, 4GB RAM, 6.2 Inch Single SIM Smartphone - Grey</description>
+                            <price>#105900</price>
+                            <rating>No rating</rating>
+                        </product>
+                    </subcategory>
+                    <subcategory name="Huawei">
+                        <product>
+                            <name>Y9s</name>
+                            <description>128GB, 6GB RAM, 4000mAh, 4G Smartphone - MIDNIGHT BLACK</description>
+                            <price>#106700</price>
+                            <rating>4.7</rating>
+                        </product>
+                        <product>
+                            <name>P40 Pro</name>
+                            <description>Dual Sim 256GB, 8GB RAM,6.58 Inch Android 10 - No Google Play</description>
+                            <price>#460000</price>
+                            <rating>No rating</rating>
+                        </product>
+                        <product>
+                            <name>Y9 Prime 2019</name>
+                            <description>128GB, 4GB RAM, Android 9, 4000mAh SIM 4G Smartphone - Sapphire Blue</description>
+                            <price>#91500</price>
+                            <rating>4.6</rating>
+                        </product>
+                        <product>
+                            <name>P30 Pro</name>
+                            <description>256GB, 8GB RAM, Android 9, Dual SIM - Breathing Crystal</description>
+                            <price>#316900</price>
+                            <rating>No rating</rating>
+                        </product>
+                        <product>
+                            <name>Mate 30 Pro</name>
+                            <description>256GB, 8GB RAM, Android 9, Dual SIM - Silver</description>
+                            <price>#416900</price>
+                            <rating>No rating</rating>
+                        </product>
+                    </subcategory>
+                    <subcategory name="Other Phones">
+                        <product>
+                            <name>Infinix Hot 8 Lite</name>
+                            <description>2GB RAM, 32GB ROM, 3G Smartphone - Midnight Black</description>
+                            <price>#44200</price>
+                            <rating>4.4</rating>
+                        </product>
+                        <product>
+                            <name>Infinix Note 7</name>
+                            <description>5000 mAh - Fingerprint - Forest Green</description>
+                            <price>#416900</price>
+                            <rating>No rating</rating>
+                        </product>
+                        <product>
+                            <name>Gionee S11 Lite</name>
+                            <description>Nougat Dual SIM 4G LTE Fingerprint ID Smartphone Black</description>
+                            <price>#39500</price>
+                            <rating>5.0</rating>
+                        </product>
+                        <product>
+                            <name>Gionee S10 Lite</name>
+                            <description>Dual SIM 4G LTE Smartphone</description>
+                            <price>#25500</price>
+                            <rating>4.5</rating>
+                        </product>
+                        <product>
+                            <name>Techno Spark 4</name>
+                            <description>2GB RAM 32GB ROM, Android Q, 4G 5000mAh, Ice Jadeite</description>
+                            <price>#51950</price>
+                            <rating>3.0</rating>
+                        </product>
+                    </subcategory>
+                </subcategory>
+                <subcategory name="IOS phones">
+                    <product>
+                        <name>Iphone 11 Pro Max</name>
+                        <description>Super Retina XDR OLED 4GB RAM 64GB ROM, 4G LTE Smartphone</description>
+                        <price>#570000</price>
+                        <rating>4.9</rating>
+                    </product>
+                    <product>
+                        <name>Iphone 7</name>
+                        <description>2GB RAM 32GB ROM 4.7 Inch Finger Sensor 4G Smartphone</description>
+                        <price>#71595</price>
+                        <rating>5.0</rating>
+                    </product>
+                    <product>
+                        <name>Iphone 6</name>
+                        <description>1GB RAM 16GB ROM, 4G LTE Smartphone</description>
+                        <price>#52800</price>
+                        <rating>4.4</rating>
+                    </product>
+                    <product>
+                        <name>Iphone XR</name>
+                        <description>3GB RAM 64GB ROM, IOS 12 White nano-SIM</description>
+                        <price>#250000</price>
+                        <rating>4.6</rating>
+                    </product>
+                    <product>
+                        <name>Iphone X</name>
+                        <description>3GB RAM 256GB ROM, Smartphone white</description>
+                        <price>#269999</price>
+                        <rating>No rating</rating>
+                    </product>
+                </subcategory>
+            </subcategory>
+            <subcategory name="Basic Phones">
+                <product>
+                    <name>QUBO X118</name>
+                    <description>Triple Torch Light, 1200mAh Battery, Dual Sim, Cell Phone</description>
+                    <price>#3500</price>
+                    <rating>3.8</rating>
+                </product>
+                <product>
+                    <name>Nokia 5310</name>
+                    <description>XpressMusic, Bluetooth, MP3, FM Radio, Dual SIM</description>
+                    <price>#19290</price>
+                    <rating>5.0</rating>
+                </product>
+                <product>
+                    <name>Nokia 105 (2019)</name>
+                    <description> Dual SIM, FM Radio, TORCH, 800mAh Battery</description>
+                    <price>#6750</price>
+                    <rating>5.0</rating>
+                </product>
+                <product>
+                    <name>Panasonic GD100S</name>
+                    <description>1.77 Inch QQVGA Displaay wireless FM Radio DUAL SIM</description>
+                    <price>#4550</price>
+                    <rating>4.0</rating>
+                </product>
+                <product>
+                    <name>QUBO X228</name>
+                    <description>HD Camera, 2000mAh Battery, Torch, Dual SIM Cell Phone</description>
+                    <price>#4500</price>
+                    <rating>4.0</rating>
+                </product>
+            </subcategory>
+        </subcategory>
+        <subcategory name="Tablets">
+            <subcategory name="Android Tables">
+                <product>
+                    <name>AEC 2020 Tablet Chip</name>
+                    <description>4G Core Android 8.0 Tablet - Black</description>
+                    <price>#20925</price>
+                    <rating>No rating</rating>
+                </product>
+                <product>
+                    <name>CmartBerry Hot 10</name>
+                    <description>10 Inch Tablet PC 10 Core Dual SIM 8.0 MP GPS Android</description>
+                    <price>#20999</price>
+                    <rating>3.5</rating>
+                </product>
+                <product>
+                    <name>A50</name>
+                    <description>Smart Touch Electronic Graphic Tablet with type C interface</description>
+                    <price>#19720</price>
+                    <rating>4.7</rating>
+                </product>
+            </subcategory>
+            <subcategory name="Educational Tablets">
+                <product>
+                    <name>Learning Tablet</name>
+                    <description>7 Inch Android Children Learning and Educational Tablet</description>
+                    <price>#29999</price>
+                    <rating>3.0</rating>
+                </product>
+                <product>
+                    <name>Wintouch K701 Kids Tablet</name>
+                    <description>7 Inches 1GB RAM, 16GB With Free Pouch Green</description>
+                    <price>#28890</price>
+                    <rating>No rating</rating>
+                </product>
+                <product>
+                    <name>G Touch</name>
+                    <description>G Touch Kids Tab</description>
+                    <price>#20500</price>
+                    <rating>No ratings</rating>
+                </product>
+            </subcategory>
+            <subcategory name="Ipads">
+                <product>
+                    <name>Ipad Pro 11</name>
+                    <description>512GB Wifi Cellular 2018YR Latest Edition Space Gray</description>
+                    <price>#600000</price>
+                    <rating>No ratings</rating>
+                </product>
+                <product>
+                    <name>Ipad 32gb Fifth Edition</name>
+                    <description>Wifi Only</description>
+                    <price>#150000</price>
+                    <rating>No ratings</rating>
+                </product>
+                <product>
+                    <name>Ipad Air</name>
+                    <description>Wifi</description>
+                    <price>#125000</price>
+                    <rating>No ratings</rating>
+                </product>
+            </subcategory>
+        </subcategory>
+        <subcategory name="Mobile Phone Accessories">
+            <subcategory name="Batteries">
+                <product>
+                    <name>Nokia BL-5C</name>
+                    <description>Mobile Phone Lion Battery</description>
+                    <price>#3000</price>
+                    <rating>No ratings</rating>
+                </product>
+                <product>
+                    <name>Mate 7</name>
+                    <description>Replacement Battery for Huawei Ascend </description>
+                    <price>#6500</price>
+                    <rating>No ratings</rating>
+                </product>
+                <product>
+                    <name>Xiaomi Mi4</name>
+                    <description>Replacement Battery</description>
+                    <price>#6000</price>
+                    <rating>No ratings</rating>
+                </product>
+            </subcategory>
+            <subcategory name="Battery Chargers">
+            </subcategory>
+            <subcategory name="MicroSD Cards">
+                <product>
+                    <name>Generic</name>
+                    <description>8GB MicroSD Memory Card Black</description>
+                    <price>#2090</price>
+                    <rating>No ratings</rating>
+                </product>
+                <product>
+                    <name>Generic</name>
+                    <description>16GB MicroSD Memory Card Black</description>
+                    <price>#2250</price>
+                    <rating>No ratings</rating>
+                </product>
+                <product>
+                    <name>Generic</name>
+                    <description>64GB MicroSD Memory Card Black</description>
+                    <price>#3850</price>
+                    <rating>No ratings</rating>
+                </product>
+            </subcategory>
+        </subcategory>
+    </category>
+    <category name="Health and Beuty">
+    </category>
+    <category name="Home and Office">
+        <subcategory name="Home and Kitchen">
+            <subcategory name="Bath">
+                <subcategory name="Bath Rugs">
+                    <product>
+                        <name>Bath Mat</name>
+                        <description>Foot Massage and Scrub - Non-slip Pure Rubber</description>
+                        <price>#3100</price>
+                        <rating>4.7</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Foot Print Foot Mat - Blue</description>
+                        <price>#5200</price>
+                        <rating>No ratings</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Non-slip Pure Rubber Door Mat</description>
+                        <price>#3500</price>
+                        <rating>No ratings</rating>
+                    </product>
+                </subcategory>
+                <subcategory name="Bath Towels">
+                    <product>
+                        <name>Generic</name>
+                        <description>Large Bath Towel - White</description>
+                        <price>#2600</price>
+                        <rating>4.3</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Medium Size Bath Towels Pack of 12</description>
+                        <price>#19500</price>
+                        <rating>No ratings</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Large Cotton Bath Towel</description>
+                        <price>#2590</price>
+                        <rating>No ratings</rating>
+                    </product>
+                </subcategory>
+                <subcategory name="Hand Towel">
+                    <product>
+                        <name>Generic</name>
+                        <description>Fancy soft kitchen hand towel - 6 pieces</description>
+                        <price>#1790</price>
+                        <rating>4.1</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Face Towel Pack of 15</description>
+                        <price>#5500</price>
+                        <rating>3.9</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>10pcs - Kitchen Cleaning Towel</description>
+                        <price>#3000</price>
+                        <rating>5.0</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>4 pieces of face cloth towels</description>
+                        <price>#1500</price>
+                        <rating>4.5</rating>
+                    </product>
+                </subcategory>
+            </subcategory>
+            <subcategory name="Cookware">
+                <subcategory name="All Pans">
+                    <product>
+                        <name>Generic</name>
+                        <description>5 Piece Premium Aluminium Stock Pot set</description>
+                        <price>#11500</price>
+                        <rating>4.2</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Non-stick Frying Pan And Sets Of Non-Stick Spoons</description>
+                        <price>#8000</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Copper Chef Pan</description>
+                        <price>#26500</price>
+                        <rating>3.0</rating>
+                    </product>
+                </subcategory>
+                <subcategory name="Canning">
+                    <product>
+                        <name>Generic</name>
+                        <description>32 Grid Plastic Egg Rack</description>
+                        <price>#5000</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>10cm Candle Holder Plants Container</description>
+                        <price>#5899</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>10cm Ball Shape GI Wall Hanging Flower Vase Plant Vase</description>
+                        <price>#5999</price>
+                        <rating>No rating</rating>
+                    </product>
+                </subcategory>
+                <subcategory name="Cookware sets">
+                    <product>
+                        <name>Generic</name>
+                        <description>Set Of Pots With Fry Pan And Kettle</description>
+                        <price>#9600</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Wooden Spoon Set, Mortar and Pestle</description>
+                        <price>#8500</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>6pcs Aluminium With Marble Effect Non Stick Pots</description>
+                        <price>#11000</price>
+                        <rating>No rating</rating>
+                    </product>
+                </subcategory>
+                <subcategory name="Double Boilers">
+                    <product>
+                        <name>Generic</name>
+                        <description>6pcs Perfect hard-bolied Egg maker cups Egglettes Egg cooker</description>
+                        <price>#4000</price>
+                        <rating>No rating</rating>
+                    </product>
+                </subcategory>
+            </subcategory>
+        </subcategory>
+        <subcategory name="Home and Office Furniture"></subcategory>
+        <subcategory name="Office Products">
+            <subcategory name="Office Furnitures">
+                <subcategory name="Chairs and Sofas">
+                    <product>
+                        <name>Generic</name>
+                        <description>New CEO Boss Executive Office Chair</description>
+                        <price>#18000</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>4 Pcs - Visitor/Conference Office Chair - Black</description>
+                        <price>#46000</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Executive Reclining gaming chair</description>
+                        <price>#15000</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Pan 3 Seater Airport Visitors Seat</description>
+                        <price>#26800</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Superior Quality Mesh Swivel Office Chair</description>
+                        <price>#29500</price>
+                        <rating>No rating</rating>
+                    </product>
+                </subcategory>
+                <subcategory name="Desk and Workstations">
+                    <product>
+                        <name>Generic</name>
+                        <description>Office Workstation - Blue</description>
+                        <price>#248999</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Executive Office Table</description>
+                        <price>#70000</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Office Table with Drawer - 4 Feet</description>
+                        <price>#24000</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>Classic Office Table</description>
+                        <price>#29000</price>
+                        <rating>No rating</rating>
+                    </product>
+                    <product>
+                        <name>Generic</name>
+                        <description>10 Medium Branded Cartons</description>
+                        <price>#940</price>
+                        <rating>4.1</rating>
+                    </product>
+                </subcategory>
+            </subcategory>
+            <subcategory name="Packaging Materials">
+                <product>
+                    <name>Generic</name>
+                    <description>100pcs Packaging Transparent Nylons</description>
+                    <price>#2250</price>
+                    <rating>No rating</rating>
+                </product>
+            </subcategory>
+        </subcategory>
+    </category>
+    <category name="Electronics">
+    </category>
+    <category name="Women's Fashion"></category>
+</categories>
